@@ -9,8 +9,8 @@ profile:
   image: web_top.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>富山県立大学</p>
-    <p>情報工学部知能ロボット工学科</p>
+    <p>富山県立大学情報工学部</p>
+    <p>知能ロボット工学科</p>
     <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
