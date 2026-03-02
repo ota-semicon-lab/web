@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Computational Materials Science Group
+title: 太田研究室
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
