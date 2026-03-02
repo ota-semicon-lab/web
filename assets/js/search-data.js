@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-computational-materials-science-group",
-    title: "Computational Materials Science Group",
+    id: "nav-太田研究室",
+    title: "太田研究室",
     section: "Navigation",
     handler: () => {
       window.location.href = "/web/";
