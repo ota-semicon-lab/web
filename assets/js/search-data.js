@@ -417,10 +417,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/web/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-結晶工学分科会主催の第164回結晶工学分科会研究会-新物質-材料と結晶工学-が富山で開催されます-詳しくはこちら-https-annex-jsap-or-jp-kessho-event-kenkyu260424",
+          section: "News",handler: () => {
+              window.location.href = "/web/news/announcement_3/";
+            },},{id: "news-結晶工学分科会主催の第164回結晶工学分科会研究会-新物質-材料と結晶工学-が富山で開催されます-詳しくはこちら-https-annex-jsap-or-jp-kessho-event-kenkyu260424",
           title: '結晶工学分科会主催の第164回結晶工学分科会研究会”新物質・材料と結晶工学”が富山で開催されます。 詳しくはこちら(https://annex.jsap.or.jp/kessho/event/kenkyu260424/)',
           description: "",
           section: "News",},{id: "projects-project-1",
