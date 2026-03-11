@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/web/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/web/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-結晶工学分科会主催の第164回結晶工学分科会研究会-新物質-材料と結晶工学-が富山で開催されます-詳しくはこちら-https-annex-jsap-or-jp-kessho-event-kenkyu260424",
+          title: '結晶工学分科会主催の第164回結晶工学分科会研究会”新物質・材料と結晶工学”が富山で開催されます。 詳しくはこちら(https://annex.jsap.or.jp/kessho/event/kenkyu260424/)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
