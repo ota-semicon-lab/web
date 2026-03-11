@@ -412,11 +412,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/web/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/web/news/announcement_2/";
             },},{id: "news-富山にて-日本結晶成長学会-結晶工学分科会主催の研究会-新物質-材料と結晶工学-が開催されます-日時-2026年4月24日-金-場所-富山県-詳細はこちら",
           title: '富山にて、日本結晶成長学会 結晶工学分科会主催の研究会「新物質・材料と結晶工学」が開催されます。    ・日時: 2026年4月24日（金）  ・場所: 富山県  ・詳細はこちら',
           description: "",
