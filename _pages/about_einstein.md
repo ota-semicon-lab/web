@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+学生時代はIII族窒化物半導体の結晶成長(MOCVD)を行っていたので,もともと実験屋です. 
+前職の時に第一原理計算(計算シミュレーション)の研究をメインにはじめました.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+興味の対象は無機系の結晶であればなんでもという感じですが,最近は従来は絶縁体として理解されていた"超ワイドバンドギャップ半導体"に興味があります.
+Si(シリコン)では作れないような優れた電子デバイスに使える材料を提案したり,従来とは異なる電子・正孔制御方法などを提案したいと思っています.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+さらにAIを使って全く新しい機能性材料を見つけることにも取り組んでいます.
