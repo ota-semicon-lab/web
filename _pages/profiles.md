@@ -19,6 +19,7 @@ profiles:
       <p>ota.yuichiあっとpu-toyama.ac.jp</p>
   - align: left
     image: student.png
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>修士1名</p><br>
