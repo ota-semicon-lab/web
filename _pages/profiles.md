@@ -14,14 +14,13 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>555 太田　優一(PI)</p>
+      <p>123 研究棟L201</p>
+      <p>ota.yuichiあっとpu-toyama.ac.jp</p>
   - align: left
     image: student.png
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p修士1名</p>
+      <p>学部4名</p>
 ---
