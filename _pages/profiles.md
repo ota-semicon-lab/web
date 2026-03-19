@@ -1,8 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
-Ota Lab Members
+title: Ota Lab Members
 nav: true
 nav_order: 3
 
