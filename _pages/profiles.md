@@ -21,7 +21,7 @@ profiles:
   - align: left
     image: student.png
     image_circular: false
-    content: about_einstein.md
+    content: about_student.md
     more_info: >
       <div style="text-align: center;">
       </div>
