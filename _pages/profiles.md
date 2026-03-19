@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+Ota Lab Members
 nav: true
 nav_order: 3
 
