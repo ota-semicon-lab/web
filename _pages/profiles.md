@@ -14,13 +14,13 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 太田　優一(PI)</p>
-      <p>123 研究棟L201</p>
+      <p> 太田　優一(PI)</p><br>
+      <p> 研究棟L201</p><br>
       <p>ota.yuichiあっとpu-toyama.ac.jp</p>
   - align: left
     image: student.png
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p修士1名</p>
+      <p>修士1名</p><br>
       <p>学部4名</p>
 ---
