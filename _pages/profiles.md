@@ -21,9 +21,8 @@ profiles:
   - align: left
     image: student.png
     image_circular: false
+    content: about_einstein.md
     more_info: >
       <div style="text-align: center;">
-      修士1名<br>
-      学部4名
       </div>
 ---
