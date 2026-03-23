@@ -8,14 +8,21 @@ nav_order: 2
 ---
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-3 mt-md-0">
-    <img src="{{ site.baseurl }}/assets/img/Project.png" 
-         class="img-fluid rounded z-depth-1" 
-         alt="Project Image" 
-         style="width: 100%;">
+  <div class="col-sm-10 text-center">
+    <h4>当研究室では、第一原理計算や材料インフォマティクスを活用し、次世代デバイスに欠かせないワイドバンドギャップ半導体の物理的解明と、新しい機能材料の探索を行っています。</h4>
   </div>
 </div>
 
+<br>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <img src="/web/assets/img/Project.png" class="img-fluid rounded z-depth-1" alt="Project Image" style="display: block; margin: 0 auto;">
+  </div>
+</div>
+
+<br>
+<hr>
 <br>
 
 <div class="projects">
