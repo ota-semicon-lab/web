@@ -9,7 +9,10 @@ nav_order: 2
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    <img src="/web/assets/img/Project.png" class="img-fluid rounded z-depth-1" alt="Project Image" style="width: 100%;">
+    <img src="{{ site.baseurl }}/assets/img/Project.png" 
+         class="img-fluid rounded z-depth-1" 
+         alt="Project Image" 
+         style="width: 100%;">
   </div>
 </div>
 
