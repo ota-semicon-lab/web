@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 半導体を中心とした先進的な材料の研究を行っています.
 nav: true
