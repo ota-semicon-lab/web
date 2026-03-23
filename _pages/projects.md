@@ -9,7 +9,7 @@ nav_order: 2
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 text-center">
-    <h4>半導体を中心とした先進的な材料の研究を行っています.</h4>
+    <h4> 密度汎関数理論に基づく第一原理計算によって、半導体を中心とした先進的な物質・材料の研究を行っています.</h4>
   </div>
 </div>
 
