@@ -8,7 +8,13 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/Project.jpg" title="Project Image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
+<br>
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
