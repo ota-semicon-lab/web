@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "半導体を中心とした先進的な材料の研究を行っています.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/web/projects/";
