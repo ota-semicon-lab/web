@@ -37,3 +37,7 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+/* トップページの見出し（news, selected publicationsなど）を大文字にする */
+.news h2, .publications h2 {
+  text-transform: capitalize;
+}
