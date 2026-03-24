@@ -13,7 +13,7 @@ profiles:
     more_info: >
       <div style="text-align: center;">
       太田 優一 (PI)<br>
-      研究棟L201<br>
+      研究棟E201<br>
       ota.yuichiあっとpu-toyama.ac.jp
       </div>
 
