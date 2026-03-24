@@ -653,6 +653,16 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GCF5C7VM73"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GCF5C7VM73');
+</script>
+
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
