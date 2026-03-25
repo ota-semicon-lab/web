@@ -403,7 +403,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-semiconductor-physics",
           title: 'Semiconductor Physics',
-          description: "Wide bandgap",
+          description: "Bandgap engineering for device applications",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/1_project/";
             },},{id: "projects-informatics",
