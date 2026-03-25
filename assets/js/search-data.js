@@ -406,9 +406,9 @@ ninja.data = [{
           description: "Wide bandgap",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-informatics",
+          title: 'Informatics',
+          description: "AI for materials science",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/2_project/";
             },},{id: "projects-project-3",
