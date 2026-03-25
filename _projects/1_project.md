@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 超ワイドバンドギャップ半導体
-description: with background image
+title: Semiconductor Physics
+description: Wide bandgap
 img: assets/img/Project1.png
 importance: 1
 category: work
