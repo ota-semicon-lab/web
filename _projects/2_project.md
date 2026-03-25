@@ -5,7 +5,7 @@ description: Data-driven structural search using generative models
 img: assets/img/Project2.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 <div class="row justify-content-sm-center">
