@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart materials
-description: Next-Generation Smart Materials Discovery
+description: Next-generation smart materials design
 img: assets/img/Project3.png
 importance: 3
 category: work
