@@ -9,12 +9,11 @@ profile:
   image: web_top.png
   image_circular: false 
   more_info: >
-  
-<div class="text-center mt-5">
-  <h3>富山県立大学 工学部</h3>
-  <h4>知能ロボット工学科</h4>
-  <p><strong>太田 裕一 (Yuichi Ota)</strong></p>
-</div>
+    <div class="text-center mt-5">
+      <h3>富山県立大学 情報工学部</h3>
+      <h4>知能ロボット工学科</h4>
+      <hr class="w-25 mx-auto">
+    </div>
 
 news: true  # ニュースを表示する設定
 selected_papers: true 
