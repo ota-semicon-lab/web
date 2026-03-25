@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Informatics
+description: AI for materials science
 img: assets/img/Project2.png
 importance: 2
 category: work
