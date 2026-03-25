@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Informatics
-description: AI for materials science
+title: Materials Informatics
+description: Data-driven structural search using generative models
 img: assets/img/Project2.png
 importance: 2
 category: work
