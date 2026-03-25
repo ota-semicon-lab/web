@@ -8,11 +8,10 @@ profile:
   align: right
   image: web_top.png
   image_circular: false 
-  more_info: >
-    <div class="text-center mt-5">
-      <h3>富山県立大学 情報工学部</h3>
-      <h4>知能ロボット工学科</h4>
-      <hr class="w-25 mx-auto">
+more_info: >
+    <div class="text-center" style="line-height: 1.4; margin-top: 15px;">
+      <p style="font-size: 0.95rem; margin-bottom: 2px;">富山県立大学 情報工学部</p>
+      <p style="font-size: 0.95rem; margin-bottom: 5px;">知能ロボット工学科</p>
     </div>
 
 news: true  # ニュースを表示する設定
