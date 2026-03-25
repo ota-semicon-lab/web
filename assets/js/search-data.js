@@ -85,17 +85,6 @@ ninja.data = [{
             window.location.href = "/web/blog/2024/typograms/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/web/blog/2024/post-citation/";
-          
-        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
