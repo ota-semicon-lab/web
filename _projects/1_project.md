@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: 超ワイドバンドギャップ半導体
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Project1.png
 importance: 1
 category: work
 related_publications: true
