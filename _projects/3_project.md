@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project with a background image and giscus comments
+title: Smart materials
+description: Next-Generation Smart Materials Discovery
 img: assets/img/Project3.png
 importance: 3
 category: work
