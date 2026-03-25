@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/web/projects/2_project/";
             },},{id: "projects-smart-materials",
           title: 'Smart materials',
-          description: "Next-Generation Smart Materials Discovery",
+          description: "Next-generation smart materials design",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
