@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart materials
-description: Next-generation smart materials design
+description: Designing multi-functional materials responsive to thermal, magnetic, and electric fields.
 img: assets/img/Project3.png
 importance: 3
 category: work
