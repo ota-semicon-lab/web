@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semiconductor Physics
-description: Wide bandgap
+description: Bandgap engineering for device applications
 img: assets/img/Project1.png
 importance: 1
 category: work
