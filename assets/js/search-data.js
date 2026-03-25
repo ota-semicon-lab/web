@@ -140,17 +140,6 @@ ninja.data = [{
             window.location.href = "/web/blog/2024/vega-lite/";
           
         },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/web/blog/2024/geojson-map/";
-          
-        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
