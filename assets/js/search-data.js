@@ -401,9 +401,9 @@ ninja.data = [{
             },},{id: "news-開催案内-第164回結晶工学分科会研究会-結晶工学分科会主催の研究会-新物質-材料と結晶工学-が開催されます-日時-2026年4月24日-金-場所-ボルファートとやま-富山県-詳細はこちら",
           title: '📅 【開催案内】第164回結晶工学分科会研究会  結晶工学分科会主催の研究会「新物質・材料と結晶工学」が開催されます。  ・日時: 2026年4月24日（金）  ・場所: ボルファートとやま（富山県）  ・詳細はこちら',
           description: "",
-          section: "News",},{id: "projects-超ワイドバンドギャップ半導体",
-          title: '超ワイドバンドギャップ半導体',
-          description: "with background image",
+          section: "News",},{id: "projects-semiconductor-physics",
+          title: 'Semiconductor Physics',
+          description: "Wide bandgap",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/1_project/";
             },},{id: "projects-project-2",
