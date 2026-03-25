@@ -406,9 +406,9 @@ ninja.data = [{
           description: "Bandgap engineering for device applications",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/1_project/";
-            },},{id: "projects-informatics",
-          title: 'Informatics',
-          description: "AI for materials science",
+            },},{id: "projects-materials-informatics",
+          title: 'Materials Informatics',
+          description: "Data-driven structural search using generative models",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/2_project/";
             },},{id: "projects-smart-materials",
