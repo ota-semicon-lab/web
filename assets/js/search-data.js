@@ -411,9 +411,9 @@ ninja.data = [{
           description: "AI for materials science",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/2_project/";
-            },},{id: "projects-project-3",
-          title: 'project 3',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-smart-materials",
+          title: 'Smart materials',
+          description: "Next-Generation Smart Materials Discovery",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
