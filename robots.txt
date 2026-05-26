@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ota-semicon-lab.github.io//sitemap.xml
+Sitemap: https://ota-semicon-lab.github.io/web/sitemap.xml
