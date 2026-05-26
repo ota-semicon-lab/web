@@ -19,7 +19,7 @@ lang: ja # 検索エンジンに日本語サイトであることを伝えるた
 icon: ⚛️
 
 url: https://ota-semicon-lab.github.io
-baseurl: "/" # ← パターンA（通常のURL）の場合はここを空欄 "" にします
+baseurl: "/web" # ← パターンA（通常のURL）の場合はここを空欄 "" にします
 last_updated: false
 impressum_path: 
 back_to_top: true
