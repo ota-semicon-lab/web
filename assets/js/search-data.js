@@ -293,9 +293,9 @@ ninja.data = [{
           description: "Data-driven structural search using generative models",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/2_project/";
-            },},{id: "projects-smart-materials",
-          title: 'Smart materials',
-          description: "Designing multi-functional materials responsive to thermal, magnetic, and electric fields.",
+            },},{id: "projects-quantum-materials",
+          title: 'Quantum materials',
+          description: "Designing quantum materials with novel physical properties for future electronic and quantum devices.",
           section: "Projects",handler: () => {
               window.location.href = "/web/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
