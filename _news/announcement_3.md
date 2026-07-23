@@ -1,3 +1,4 @@
+---
 layout: post
 title: The 12th International Workshop on Semiconductor Oxides(IWSO12)（2026年）
 date: 2027-07-23
