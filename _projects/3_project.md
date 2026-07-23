@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Smart materials
-description: Designing multi-functional materials responsive to thermal, magnetic, and electric fields.
+title: Quantum materials
+description: Designing quantum materials with novel physical properties for future electronic and quantum devices.
 img: assets/img/Project3.png
 importance: 3
 category: work
