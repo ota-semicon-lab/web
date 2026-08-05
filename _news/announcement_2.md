@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 第32回結晶工学スクール（2026年）
-date: 2027-07-01
+title: 共著論文アクセプト
+date: 2026-08-04
 inline: true
 ---
-**📅 【開催案内】第32回結晶工学スクール　2026年**<br>
-「第32回結晶工学スクール」が上智大学で開催されます。<br>
-・**日時**: 2026年7月28-30日（水,木,金）<br>
-・**場所**: 上智大学 四谷キャンパス 11号館704号室／オンライン <br>
-・[詳細はこちら](https://annex.jsap.or.jp/kessho/event/school260728/)
+**📄JJAPに論文がアクセプトされました**<br>
+・タイトル：Electronic states of impurity centers in MgO single crystals under local cubic fields: an EPR study
+・[詳細はこちら]([https://annex.jsap.or.jp/kessho/event/school260728/](https://iopscience.iop.org/article/10.35848/1347-4065/ae94c9))
