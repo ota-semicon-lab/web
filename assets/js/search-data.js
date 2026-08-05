@@ -277,8 +277,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/web/books/the_godfather/";
-            },},{id: "news-開催案内-第32回結晶工学スクール-2026年-第32回結晶工学スクール-が上智大学で開催されます-日時-2026年7月28-30日-水-木-金-場所-上智大学-四谷キャンパス-11号館704号室-オンライン-詳細はこちら",
-          title: '📅 【開催案内】第32回結晶工学スクール　2026年  「第32回結晶工学スクール」が上智大学で開催されます。  ・日時: 2026年7月28-30日（水,木,金）  ・場所: 上智大学 四谷キャンパス 11号館704号室／オンライン   ・詳細はこちら',
+            },},{id: "news-jjapに論文がアクセプトされました-タイトル-electronic-states-of-impurity-centers-in-mgo-single-crystals-under-local-cubic-fields-an-epr-study-詳細はこちら",
+          title: '📄JJAPに論文がアクセプトされました ・タイトル：Electronic states of impurity centers in MgO single crystals under local cubic...',
           description: "",
           section: "News",},{id: "news-開催案内-the-12th-international-workshop-on-semiconductor-oxides-iwso12-酸化物半導体の国際会議-iwso12-が九州大学で開催されます-日時-2027年5月17-21日-場所-九州大学医学部-百年講堂-詳細はこちら",
           title: '📅 【開催案内】The 12th International Workshop on Semiconductor Oxides (IWSO12) 酸化物半導体の国際会議(IWSO12)が九州大学で開催されます。 ・日時: 2027年5月17-21日 ・場所:...',
